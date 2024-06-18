@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @Rohit Kumar Singh
-- 👀 I’m interested in Software engineering ,Web and App devs
+- 👀 I’m interested in Software Development
 - 🌱 B.tech (CSE)
 - 💞️ Developer @Wipro
 - 👀 Abapper
