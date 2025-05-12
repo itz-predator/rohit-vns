@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @Rohit Kumar Singh
 - 👀 I’m interested in Software Development
 - 🌱 B.tech (CSE)
-- 💞️ Developer @Wipro
+- 💞️ Developer @International Tractors Limited
 - 👀 Abapper
 - 📫 https://www.linkedin.com/in/rohitks1/
 <picture>
